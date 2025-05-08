@@ -10,14 +10,15 @@ Lançamento iPhone 2007
 Minutos relevantes: 00:15 até 00:55
 Funcionalidades a Modelar
 Reprodutor Musical
-Métodos: tocar(), pausar(), selecionarMusica(String musica)
+Métodos: tocar(), pausar(), selecionarMusica(String musica).
 
 Aparelho Telefônico
-Métodos: ligar(String numero), atender(), iniciarCorreioVoz()
+Métodos: ligar(String numero), atender(), iniciarCorreioVoz().
 
 Navegador na Internet
-Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()
+Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina().
 
 Objetivo
+
 Criar um diagrama UML que represente as funcionalidades descritas acima.
 Implementar as classes e interfaces correspondentes em Java (Opcional).
